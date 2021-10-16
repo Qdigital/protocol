@@ -10,7 +10,7 @@
   "dependencies": {
     "@davidqhr/ganache-cli": "6.4.3",
     "bignumber.js": "^7.2.1",
-    "debug": "^4.1.1",
+    "debug": "^4.3.2",
     "ethereumjs-util": "^5.2.0",
     "truffle": "5.0.22",
     "truffle-hdwallet-provider": "^1.0.12"
