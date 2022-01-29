@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@davidqhr/ganache-cli": "6.4.3",
-    "bignumber.js": "^7.2.1",
+    "bignumber.js": "^9.0.2",
     "debug": "^4.1.1",
     "ethereumjs-util": "^5.2.0",
     "truffle": "5.0.22",
