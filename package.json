@@ -13,7 +13,7 @@
     "debug": "^4.1.1",
     "ethereumjs-util": "^5.2.0",
     "truffle": "5.0.22",
-    "truffle-hdwallet-provider": "^1.0.12"
+    "truffle-hdwallet-provider": "^1.0.15"
   },
   "devDependencies": {
     "ethereumjs-abi": "^0.6.7",
